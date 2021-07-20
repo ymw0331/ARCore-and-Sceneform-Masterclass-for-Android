@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             if (faceRenderable != null && faceTexture != null) {
                 addTrackedFaces()
                 removeUntrackedFaces()
-            }
+            } 
         }
     }
 
